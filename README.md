@@ -25,4 +25,4 @@ Si vous souhaitez modifier le code :
 3. Lancez le jeu : `python main.py`
 
 ## 👤 Auteur
-Projet réalisé par **[Votre Nom / Pseudo]** au sein de l'IPNET Institute of Technology, Lomé, Togo.
+Projet réalisé par **KOUMEKPO Rodrigue** au sein de l'IPNET Institute of Technology, Lomé, Togo.
